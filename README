@@ -1,5 +1,5 @@
 This is an implementation of a circular linked list for learning purposes. 
 
-Wrote for a Georgia Tech class but hopefully it will display the level of exosure I have to coding.
+Wrote for a Georgia Tech class but hopefully it will display the level of exposure I have to coding in C.
 
-Make will compile and run some test cases that have been made to make sure the helper functions work correctly. 
+The Makefile will compile and run some test cases that have been made to make sure the helper functions work correctly. 
